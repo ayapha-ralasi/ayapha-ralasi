@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayapha-ralasi
-- 👀 I’m interested in mobile and web applcation development
+- 👀 I’m interested in mobile and web application development using Java
 - 🌱 I’m currently learning Spring Security
 - 📫 How to reach me - ayaphamihlali@gmail.com
 
